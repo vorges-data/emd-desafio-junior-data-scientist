@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "emd-desafio-junior-data-scientist"
+version = "0.1.0"
+description = "Projeto do desafio técnico para vaga de Cientista de Dados Jr - Prefeitura do Rio"
+authors = ["vorges-data <vinicius.jborges36@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.37.1"
+pandas = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
