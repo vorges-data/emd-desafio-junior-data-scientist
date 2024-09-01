@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "streamlit-env"
+version = "0.1.0"
+description = "Isolar ambiente do Streamlit visto incompatibilidade de versões com pandravo"
+authors = ["vorges-data <vinicius.jborges36@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.38.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
