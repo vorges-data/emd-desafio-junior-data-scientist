@@ -1,2 +1,6 @@
 tipo_situacao,total_chamados
 Atendido,1015
+Não constatado,335
+Não atendido,202
+Atendido parcialmente,170
+Andamento,34
