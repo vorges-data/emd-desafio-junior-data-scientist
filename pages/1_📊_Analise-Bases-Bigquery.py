@@ -22,7 +22,7 @@ dataset = st.sidebar.selectbox(
 # Condicional para exibir o gráfico com base na seleção do usuário
 if dataset == "Total de Chamados":
     df = load_data('total_chamados_01042023.csv')
-    st.subheader("Total de Chamados em 01/04/2023")
+    st.subheader("Total de Chamados no mês de Abril 2023")
     st.metric(label="Total de Chamados", value=int(df['total_chamados'].sum()))
 
 elif dataset == "Tipo de Chamados":
