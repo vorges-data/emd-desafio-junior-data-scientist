@@ -22,7 +22,7 @@ Este projeto é um dashboard interativo desenvolvido como parte de um desafio t�
 Primeiro, você precisa clonar o repositório para sua máquina local. Abra o terminal e execute o seguinte comando:
 
 ```bash
-git clone https://github.com/seu-usuario/emd-desafio-junior-data-scientist.git
+git clone https://github.com/vorges-data/emd-desafio-junior-data-scientist.git
 ```
 
 ### 2. Navegue para o Diretório do Projeto
